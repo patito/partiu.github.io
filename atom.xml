@@ -4,11 +4,11 @@
   <title><![CDATA[#partiu]]></title>
   <link href="http://partiu.github.io/atom.xml" rel="self"/>
   <link href="http://partiu.github.io/"/>
-  <updated>2014-10-09T23:58:04+01:00</updated>
+  <updated>2014-10-10T00:02:22+01:00</updated>
   <id>http://partiu.github.io/</id>
   <author>
     <name><![CDATA[Titão e Grazzi]]></name>
-    
+    <email><![CDATA[benatto@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
