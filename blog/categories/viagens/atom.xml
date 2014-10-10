@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[#partiu]]></title>
-  <link href="http://partiu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: viagens | #partiu]]></title>
+  <link href="http://partiu.github.io/blog/categories/viagens/atom.xml" rel="self"/>
   <link href="http://partiu.github.io/"/>
   <updated>2014-10-10T18:43:59+01:00</updated>
   <id>http://partiu.github.io/</id>
@@ -39,14 +39,14 @@ Estes foram os sites que usamos para ter informações:</p>
 
 <p>Informações sobre os ônibus: <a href="http://www.buses.co.uk/travel/">http://www.buses.co.uk/travel/</a></p>
 
-<p><img src="http://partiu.github.io/images/seaford/seaford1.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford2.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford3.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford4.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford5.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford6.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford7.jpg" title="Seaford" alt="alt text" />
-<img src="http://partiu.github.io/images/seaford/seaford8.jpg" title="Seaford" alt="alt text" /></p>
+<p><img src="/images/seaford/seaford1.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford2.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford3.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford4.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford5.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford6.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford7.jpg" title="Seaford" alt="alt text" />
+<img src="/images/seaford/seaford8.jpg" title="Seaford" alt="alt text" /></p>
 
 <p>Se alguém tiver alguma dúvida, algo a acrescentar ou correção a fazer, por favor, não se acanhe, deixe seu comentário! O objetivo do blog é ajudar, trocar experiências e aprender mais.</p>
 ]]></content>
