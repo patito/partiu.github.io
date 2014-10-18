@@ -4,7 +4,7 @@
   <title><![CDATA[#partiu]]></title>
   <link href="http://partiu.github.io/atom.xml" rel="self"/>
   <link href="http://partiu.github.io/"/>
-  <updated>2014-10-11T18:20:55+01:00</updated>
+  <updated>2014-10-18T18:33:05+01:00</updated>
   <id>http://partiu.github.io/</id>
   <author>
     <name><![CDATA[Titão e Grazzi]]></name>
@@ -12,6 +12,185 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A vida de garoto de programa em Brighton]]></title>
+    <link href="http://partiu.github.io/blog/2014/10/18/a-vida-de-garoto-de-programa-em-brighton/"/>
+    <updated>2014-10-18T12:55:01+01:00</updated>
+    <id>http://partiu.github.io/blog/2014/10/18/a-vida-de-garoto-de-programa-em-brighton</id>
+    <content type="html"><![CDATA[<p>Bazinga! E você veio ler esse texto acreditando que eu estava me
+prostituindo no exterior? Pois então, dei azar, virei sysadmin.</p>
+
+<p><img src="http://partiu.github.io/images/sysadmin/sysadmin.png" title="Sysadmin" alt="alt text" /></p>
+
+<!-- more -->
+
+
+<p>Esse post é dedicado aos meus amigos nerds que pediram, encarecidamente,
+para eu contar como é trabalhar com computação no Reino Unido. A resposta
+para essa pergunta é bem simples: um saco, igual era no Brasil =). Minha
+dica é: vaza do mundo da computação, vai ser feliz, viver, beber cerveja, vomitar
+no pé das mina na balada, vai brincar com o buffer da sua vizinha,
+dar um fopen() no arquivo perereca.txt (com permissão de escrita),
+vai brincar de nerd com sua prima e ensinar ela a manipular o ponteiro,
+ensina ela implementar pilha (push, pop, push, pop, push, pop &hellip; aaarrrrghhhhhh).</p>
+
+<p>Mas se você, meu amigo nerd, não se identificou com as minhas dicas acima, parabéns campeão,
+você é daqueles que babam acordado, assiste hentai, acha que é o Neo da Matrix,
+usa i3wm e programa em C no emacs/Vi. E aposto que se orgulha de tudo isso. /o\</p>
+
+<p>Brincadeiras a parte, vamos logo ao assunto desse post. Nesse texto eu vou
+mostrar a minha visão e experiência na área de computação aqui no exterior, e farei
+alguns comparativos com a minha experiência no Brasil. Esse texto não é uma verdade
+absoluta, apenas a minha história aqui no Reino Unido.</p>
+
+<p>Antes de mais nada, eu gostaria de deixar claro que eu não tenho nada contra as empresas
+nas quais trabalhei no Brasil. Meus melhores amigos e familiares trabalham nessas empresas, sempre fui muito bem recebido
+por onde passei, sinto muitas saudades e em breve eu voltarei para o Brasil.</p>
+
+<h1>O começo</h1>
+
+<p>Eu cheguei em Londres dia 20 de março de 2014 e comecei a trabalhar na área de computação
+dia 28 de julho, 4 meses após chegar em Londres. Porquê demorou 4 meses? Não sei responder
+essa pergunta, talvez nervosismo, falta de confiança, não estava adaptado ao ambiente,
+Inglês ruim, ou seja, vários fatores fizeram eu demorar para começar a trabalhar na área.
+Isso não quer dizer que se você chegar aqui vai demorar 4 meses também.</p>
+
+<p>O começo foi complicado, fiz várias entrevistas antes de conseguir o primeiro trabalho,
+muitas vezes era frustrante ficar só reprovando, muitas dessas entrevistas eu não entendia
+o que eles me perguntavam hehehe! Mas eu não fiquei
+parado, fui trabalhar em um restaurante, inclusive escrevi sobre isso em outro post.</p>
+
+<h1>Recrutas</h1>
+
+<p>Como funciona a busca de trabalho aqui em Londres e região? O contato ocorre através de
+recrutas, que em minha opnião são totalmente desnecessários. Por sorte, para entrar na minha
+atual empresa, foi contato direto com a empresa, não teve nenhum intermediário.</p>
+
+<p>O processo de recrutamento aqui muitas vezes é terceirizado, empresas com pessoas &ldquo;especializadas&rdquo;
+em recrutamento que fazem o primeiro contato com você. Esses recrutas ficam buscando profissionais
+na internet, ligam para o candidato, passam os dados para os possíveis empregadores e marcam suas
+entrevistas. Parece a secretária do meu dentista. Talvez eu esteja sendo
+injusto com os recrutas, mas eu particularmente, não tenho uma boa impressão e acredito que um
+intermediário apenas complica na comunicação entre as pontas. Inclusive quando eu
+fui fazer entrevista na ARM em Cambridge, os engenheiros que me entrevistaram também não
+gostavam desses recrutas.</p>
+
+<p>Mas não existe outra forma, aqui funciona assim, quase certo que o seu primeiro contato
+será com um recruta também. Mas você disse que não tinha um bom Inglês como você entendia os
+recrutas? Não entendia, hehehe! Todos os recrutas faziam a mesma coisa, me ligavam, e falavam
+que tinha uma oportunidade e falavam um monte sobre a empresa. No final eles perguntavam se eu
+tinha interesse, eu falava que sim. Mas nem sabia qual era a vaga ou empresa.</p>
+
+<h1>Providências</h1>
+
+<p>Para facilitar a minha busca por um novo trabalho aqui no Reino Unido  eu tentei tomar algumas providências.</p>
+
+<p><img src="http://partiu.github.io/images/sysadmin/providencia.jpg" title="Providência" alt="alt text" /></p>
+
+<ul>
+<li><p>Língua: Falar e entender Inglês é muito importante. Fiz um curso de Inglês antes de sair do
+Brasil. Mesmo assim quando eu cheguei aqui tive muita dificuldade com o sotaque deles.
+Não pode ter vergonha, sempre me esforcei ao máximo para me comunicar. Eu falava tudo errado mesmo,
+até hoje faço isso =).</p></li>
+<li><p>Linkedin: Traduzi meu Linkedin para o Inglês, detalhando minha experiência, recebi
+recomendações dos meus amigos de trabalho, e também adicionei projetos que participei. No Brasil
+o Linkedin não é muito utilizado, mas aqui é. Muitas empresas e recrutas utilizam ele para fazer o
+primeiro contato. Até hoje recebo várias propostas via Linkedin. Então, mantenha-o atualizado.</p></li>
+<li><p>Monster: Site de busca de emprego muito utilizado, adicione seu currículo. Site: <a href="http://www.monster.co.uk/">http://www.monster.co.uk/</a></p></li>
+<li><p>Github: Você não tem costume de desenvolver opensource? Péssima prática, mude esse hábito e comece
+a utilizar o github. Grande maioria das empresas que fiz processo seletivo me pediram o github.</p></li>
+<li><p>Google: Eu fazia pesquisas sobre startups de Londres, entrava no site deles e mandava email diretamente
+para a empresa. A minha primeira entrevista foi dessa forma.</p></li>
+<li><p>Network: Contatos são muito importantes, quando eu vim morar em Londres, eu tinha amigos e conhecidos
+que trabalharam na região e fizeram várias indicações. Inclusive a primeira vez que conheci a Brandwatch,
+onde trabalho atualmente, foi indicação da Josi, uma amiga hacker que mora na Alemanha. Valeu Josi =).</p></li>
+<li><p>Redes Sociais: Você pode fazer uso de redes sociais para saber de vagas de emprego, por exemplo, muitas
+empresas divulgam oportunidades de emprego no twitter e outras redes sociais.</p></li>
+<li><p>MeetUp: Uma ótima forma de praticar o Inglês, socializar e fazer contato com profissionais da
+área.</p></li>
+</ul>
+
+
+<h1>Meu trabalho atual</h1>
+
+<p>Atualmente eu estou trabalhando como Jr. Sysadmin na Brandwatch, uma empresa que faz monitoramento
+de redes sociais. Como assim trabalhando como sysadmin? Pois é, meu background é na área de
+desenvolvimento, essa é a primeira vez que trabalho na área. Mesmo trabalhando de sysadmin
+eu continuo desenvolvendo, principalmente automação de tarefas em python, também trabalho
+com Nagios, linux containers e Ldap.</p>
+
+<p>Eu falei anteriormente que demorei 4 meses para começar a trabalhar na área aqui no Reino Unido,
+mas eu fui aprovado em 3 empresas diferentes ao mesmo tempo. Por incrível que pareça eu escolhi
+a empresa que me ofereceu o menor salário e trabalhar em uma área que eu não tenho experiência.
+Porquê? Bateu com as costas? Escolhi trabalhar na Brandwatch devido ao ambiente de trabalho.
+Pessoal aqui é largado, andam de meia, descalço, incentivam o desenvolvimento de projetos
+opensource, tem café da manhã com frutas, cookies, chocolates, ou seja, além de nerd, vou virar uma baleia.
+A empresa é muito mente aberta e se
+preocupa realmente com o bem-estar do funcionário. Algumas coisas legais que a empresa fornece
+para o funcionário.</p>
+
+<ul>
+<li>Auxílio Bike, eles te compram uma bike e parcelam para você (com desconto).</li>
+<li>Sushi Day: Almoço comida japonesa uma vez por mês.</li>
+<li>Pizza Day: Almoço pizza uma vez por mês.</li>
+<li>Funky Friday: Sextas-feiras alternadas para desenvolver seus próprios projetos. Depois você tem que
+apresentar seu projeto para empresa. Existem auxílio e incentivos para as idéias boas.</li>
+<li>Ambiente totalmente colaborativo. Vou citar um exemplo. A empresa foi participar de um evento,
+para isso ela fez um letreiro eletrônico com arduino, este letreiro foi soldado pelo pessoal do financeiro, recursos
+humanos, entre outras áreas. Isso eu achei incrível. E acontece sempre, não é um caso isolado.</li>
+<li>Horário flexível.</li>
+<li>Comida e bebida o dia todo. Fornecem frutas, café, bolachas, bolos, chocolates&hellip;</li>
+<li>Toda sexta-feira tem pastries e vitaminas.</li>
+<li>Tem cachorro (e eu =) dentro da empresa, passeando pelo desenvolvimento.</li>
+</ul>
+
+
+<p>Com certeza a empresa tem muitas vantagens, mas tem coisas ruins também, os funcionários quando
+entram na empresa recebem um macbook para trabalhar, e se necessário um iphone. /o\</p>
+
+<h1>E no Brasil&hellip;</h1>
+
+<p>Com certeza trabalhar com computação no Reino Unido é muito diferente do que eu era
+acostumado no Brasil. A maioria das empresas que trabalhei ou tive algum tipo de contato no Brasil
+tem a mente fechada e são totalmente burrocráticas. Algo que achei interessante aqui foram como os
+gerentes, diretores e pessoas no cargo de liderança em geral interagem com o ambiente. Aqui eles
+não tem uma sala própria afastada do chão de fábrica, muito pelo contrário, eles sentam do nosso
+lado, trabalhando junto em equipe, dando e ouvindo opinião, totalmente horizontal. Mas e se eu
+preciso falar algo particular com meu gerente? Existe a sala de reunião para isso.</p>
+
+<p>Outra coisa que eu acho absurdo em empresas brasileiras, eles definem como um funcionário deve
+se vestir, piada né? Ainda mais em um ambiente nerd. Meu terno não sabe programar seu bocó!
+O que os clientes vão pensar? O produto pode ser um lixo, cheio de bugs, mas o
+que importa é o funcionário bem arrumado, com gel no cabelo. Você quer meu código ou casar comigo? =)</p>
+
+<p>O processo de desenvolvimento de software é um pouco diferente também, aqui eles desenvolvem e depois
+vendem o produto. No Brasil eles vendem e depois enchem os funcionários de chicotadas para tentar
+entregar um software de péssima qualidade.</p>
+
+<p>Outro grande problema que eu vejo é a área de recursos humanos em empresas do Brasil, que é utilizada para
+defender a empresa dos funcionários. Aqui eles pensam o tempo todo em como melhorar a vida do funcionário e
+não medem esforços para isso.</p>
+
+<h1>Concluindo</h1>
+
+<p>Não posso falar de outras empresas do Reino Unido, mas onde eu trabalho atualmente é um lugar único,
+com um ambiente incrível. A maioria das empresas ai são assim? Não sei te responder, mas a
+visão dos empresários aqui é bem diferente do Brasil.</p>
+
+<p>Não, o problema não é apenas dos empresários, muitos funcionários fazem corpo mole, querem mais direitos
+do que deveres. No texto pareceu que a empresa é só diversão, não é bem assim, pessoal aqui rala muito,
+veste a camisa, pelo fato da empresa ser muito boa. É uma troca.</p>
+
+<p>Esse texto foi baseado na minha curta experiência trabalhando aqui no Reino Unido, se eu cometi alguma
+injustiça me desculpem e avisem-me que irei corrigir.</p>
+
+<p>Você tem vontade de trabalhar com computação aqui? Entre em contato comigo através do blog que eu irei
+te ignorar ehehehe. Brincadeira, entrem em contato que eu farei o possível para te arranjar entrevistas.</p>
+
+<p>&hellip;Let&rsquo;s enjoy our limited time on Earth&hellip;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Busser: O meu primeiro trabalho no exterior]]></title>
