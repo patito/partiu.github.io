@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://partiu.github.io/blog/2014/12/13/viagem-de-outono-belgica-slash-bruges/</loc>
+    
+    <lastmod>2014-12-13T19:35:13+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://partiu.github.io/blog/2014/12/01/residence-card-eea2-e-registration-certificate-eea1/</loc>
     
     <lastmod>2014-12-01T18:53:08+00:00</lastmod>
@@ -77,28 +85,28 @@
   
   <url>
     <loc>http://partiu.github.io/archives/</loc>
-    <lastmod>2014-12-01T19:40:20+00:00</lastmod>
+    <lastmod>2014-12-13T22:22:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://partiu.github.io/</loc>
-    <lastmod>2014-12-01T19:40:20+00:00</lastmod>
+    <lastmod>2014-12-13T22:22:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://partiu.github.io/blog/archives/</loc>
-    <lastmod>2014-12-01T19:40:20+00:00</lastmod>
+    <lastmod>2014-12-13T22:22:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://partiu.github.io/about/</loc>
-    <lastmod>2014-12-01T19:40:20+00:00</lastmod>
+    <lastmod>2014-12-13T22:22:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
